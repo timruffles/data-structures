@@ -20,5 +20,8 @@ npm install data-structures
 Heap = require('data-structures').Heap
 heap = new Heap()
 ```
+
+[Read this tip if you wish to modify the code.](https://www.github.com/chenglou/data-structures/wiki/Literate-CoffeeScript-setup-in-Sublime-Text)
+
 ## License
 MIT.
