@@ -22,6 +22,7 @@ heap = new Heap()
 ```
 
 [Read this tip if you wish to modify the code.](https://www.github.com/chenglou/data-structures/wiki/Literate-CoffeeScript-setup-in-Sublime-Text)
+Running the code directly from .litcoffee files require CoffeeScript 1.5+. JavaScript version and browser support coming soon.
 
 ## License
 MIT.
