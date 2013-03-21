@@ -71,9 +71,6 @@ shift. We choose the former. Wrapper methods are a possibility.
 Position specifies the place the value's going to be, and the old node will be
 pushed higher. `add(-2)` on length of 7 is the same as `add(5)`.
 
-`              V here
-[1, 2, 3, 9, 5, 7, 10]`
-
             nodeToAdd = {value: value}
             position = @_adjust position
 
