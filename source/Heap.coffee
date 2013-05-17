@@ -59,6 +59,7 @@ class Heap
             [@_data[index], @_data[_parent index]] =
             [@_data[_parent index], @_data[index]]
             index = _parent index
+        null
 
     _downHeap: ->
         currentIndex = 1
@@ -74,6 +75,7 @@ class Heap
                 currentIndex = smallerChildIndex
             else
                 break
+        null
 
 _parent = (index) -> index >> 1 # Fast divide by 2 then flooring.
 
